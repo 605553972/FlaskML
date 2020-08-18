@@ -1,0 +1,8 @@
+numpy~=1.19.1
+pandas~=1.1.0
+joblib~=0.16.0
+Keras~=2.4.3
+Django~=3.0.9
+Flask~=1.1.2
+WTForms~=2.3.3
+Werkzeug~=1.0.1
