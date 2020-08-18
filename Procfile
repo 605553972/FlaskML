@@ -1,1 +1,1 @@
-python3 mainapp.py
+web: sh setup.py 
